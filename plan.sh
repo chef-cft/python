@@ -1,7 +1,7 @@
 pkg_name=python
 pkg_distname=Python
 pkg_version=3.7.4
-pkg_origin=jmery
+pkg_origin=chef-cft
 pkg_maintainer="Jeff Mery <jmery@chef.io>"
 pkg_license=('Python-2.0')
 pkg_description="Python is a programming language that lets you work quickly \
